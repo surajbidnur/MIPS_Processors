@@ -1,0 +1,12 @@
+MIPS_Multi_Cycle_Processor/Work
+MIPS_Multi_Cycle_Processor/*.mti
+MIPS_Multi_Cycle_Processor/*.mpf
+MIPS_Multi_Cycle_Processor/*.wlf
+MIPS_Pipeline_Processor/Work
+MIPS_Pipeline_Processor/*.mti
+MIPS_Pipeline_Processor/*.mpf
+MIPS_Pipeline_Processor/*.wlf
+MIPS_Single_Cycle_Processor/Work
+MIPS_Single_Cycle_Processor/*.mti
+MIPS_Single_Cycle_Processor/*.mpf
+MIPS_Single_Cycle_Processor/*.wlf
