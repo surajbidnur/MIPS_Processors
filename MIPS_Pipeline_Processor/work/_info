@@ -1,0 +1,334 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder
+Z1 I<7>i3j04`BHP=UFc8]a<G3
+Z2 VR4:XbIkd<X908neF9?e9K1
+Z3 dC:\Users\bidnu\Documents\Suraj\Verilog_Proj\MIPS_Processors\MIPS_Pipeline_Processor
+Z4 w1642056718
+Z5 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/adder.v
+Z6 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/adder.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 YoB>2;ePiPW6j45fM_8071
+Z10 !s108 1643109550.569000
+Z11 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/adder.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z13 InRbkO91iJ9jjNgNZ<Fh9B3
+Z14 VDa3f7Y[;21PY;BPaM17Bi2
+R3
+Z15 w1642314833
+Z16 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/alu.v
+Z17 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/alu.v
+L0 1
+R7
+r1
+31
+R8
+Z18 !s100 zl?`2e4_UnXzbzET266e<3
+Z19 !s108 1643109550.708000
+Z20 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/alu.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUDecoder
+Z22 I6@QSc9FaSHY:M;b:Ze4BC3
+Z23 V=>9Gj:fm=EIo6j_WIhBXV1
+R3
+Z24 w1642074042
+Z25 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/ALUDecoder.v
+Z26 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/ALUDecoder.v
+L0 1
+R7
+r1
+31
+R8
+Z27 n@a@l@u@decoder
+Z28 !s100 RMmEZa<dXC4`bMe=CSM2M3
+Z29 !s108 1643109550.849000
+Z30 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/ALUDecoder.v|
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/ALUDecoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrolUnit
+Z32 IN>Aoo0`]<zASZY1^=6^ii0
+Z33 VcK<BhI6z>1]_JKBVA;?ZA3
+R3
+Z34 w1642590208
+Z35 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/controlUnit.v
+Z36 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/controlUnit.v
+L0 1
+R7
+r1
+31
+R8
+Z37 ncontrol@unit
+Z38 !s100 XX_>GYehz6h^cTh7P=MIT0
+Z39 !s108 1643109551.015000
+Z40 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/controlUnit.v|
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/controlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdataMem
+Z42 I[<Wd:7UFZ4=J@;]L`OSii1
+Z43 V^YDTC:CmZUlPl>I5D19I<3
+R3
+Z44 w1642075639
+Z45 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/dataMem.v
+Z46 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/dataMem.v
+L0 1
+R7
+r1
+31
+R8
+Z47 ndata@mem
+Z48 !s100 bz75hjZAAm>2XNKgCiToU3
+Z49 !s108 1643109551.150000
+Z50 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/dataMem.v|
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/dataMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z52 I`521iQK4KIg2NKcEHN`Eo2
+Z53 V3^7KO4Dg5O_jWehbc7BV11
+R3
+Z54 w1643001294
+Z55 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/datapath.v
+Z56 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/datapath.v
+L0 1
+R7
+r1
+31
+R8
+Z57 !s100 KLbGemfDa8lHMVU13C5^M2
+Z58 !s108 1643109551.326000
+Z59 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/datapath.v|
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhazard_unit
+Z61 IF5BcP120PmIZi<=T6CNDJ2
+Z62 VLebl>c[JBncNJKYC^HWim0
+R3
+Z63 w1642998079
+Z64 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/hazard_unit.v
+Z65 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/hazard_unit.v
+L0 1
+R7
+r1
+31
+R8
+Z66 !s100 di6YWdGXjaAK;TQ5]CzAN1
+Z67 !s108 1643109551.548000
+Z68 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/hazard_unit.v|
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/hazard_unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinstrMem
+Z70 IKk;8KN=XQEUa@<TXeS]D62
+Z71 VmfUCP9D16daNJg5X9l2Mk2
+R3
+Z72 w1642226521
+Z73 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/instrMem.v
+Z74 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/instrMem.v
+L0 1
+R7
+r1
+31
+R8
+Z75 ninstr@mem
+Z76 !s100 XSKX<ONh34SBMH47hY;3S1
+Z77 !s108 1643109551.758000
+Z78 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/instrMem.v|
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/instrMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmainDecoder
+Z80 Io@h?b6>BZMVAmah`g1XRe1
+Z81 VUSO_aHBH5kSTcLX[4Ca]k0
+R3
+Z82 w1642850239
+Z83 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mainDecoder.v
+Z84 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mainDecoder.v
+L0 1
+R7
+r1
+31
+R8
+Z85 nmain@decoder
+Z86 !s100 7Fd0:`h2>P3Tf8cNHUUD>3
+Z87 !s108 1643109551.925000
+Z88 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mainDecoder.v|
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mainDecoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_pipeline_processor
+Z90 I:KPl8a9Y:Q1VKF7k7IUKI1
+Z91 V^:5>;N[<VR3bO8PfURb?70
+R3
+Z92 w1642845661
+Z93 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor.v
+Z94 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor.v
+L0 1
+R7
+r1
+31
+R8
+Z95 !s100 k:4Kdm7=7BMj>ZYki9`8Q3
+Z96 !s108 1643109552.071000
+Z97 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor.v|
+Z98 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_pipeline_processor_tb
+Z99 Id?OJ9e0OL2AYea6g]NBGj1
+Z100 Vk]8P81c5R9mh83gf6kW<<0
+R3
+Z101 w1643023943
+Z102 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor_tb.v
+Z103 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor_tb.v
+L0 1
+R7
+r1
+31
+R8
+Z104 !s100 1edHE3V7`UV1;dN_CfT?T0
+Z105 !s108 1643109552.215000
+Z106 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor_tb.v|
+Z107 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mips_pipeline_processor_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21
+Z108 Im_ckEdQ3Gld3K?Sa5m>l91
+Z109 V_LG=1C1>N[Xec1QUjc]873
+R3
+Z110 w1642228977
+Z111 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux21.v
+Z112 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux21.v
+L0 1
+R7
+r1
+31
+R8
+Z113 !s100 TMP4jE_zJ>PQ^0NjC40g>0
+Z114 !s108 1643109552.381000
+Z115 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux21.v|
+Z116 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux21.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux41
+Z117 IDJJ8=5EHBCOPFQ>@LlI@D3
+Z118 V8<4KP2=O;TGPoFc2NY=@a1
+R3
+Z119 w1642409608
+Z120 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux41.v
+Z121 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux41.v
+L0 1
+R7
+r1
+31
+R8
+Z122 !s100 WCnHkhKJcmQ7GFb1MVeDW2
+Z123 !s108 1643109552.529000
+Z124 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux41.v|
+Z125 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/mux41.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z126 I:i5P;X?]MY:o_=P5?emZd3
+Z127 VoIG^P`j=0Xdf^FHBm:TYI3
+R3
+Z128 w1642596545
+Z129 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reg_file.v
+Z130 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reg_file.v
+L0 1
+R7
+r1
+31
+R8
+Z131 !s100 c006Ri^GGgA]dSlU<Q^ad2
+Z132 !s108 1643109552.683000
+Z133 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reg_file.v|
+Z134 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reg_file.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_en_ff
+Z135 I?BmRF^XZ^XGZ?@I74?[JI0
+Z136 VGaRh8[74Df]2I6iF9gcM42
+R3
+Z137 w1643001553
+Z138 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reset_en_ff.v
+Z139 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reset_en_ff.v
+L0 1
+R7
+r1
+31
+R8
+Z140 !s100 ^@g9R:_2Eg8DQ=h0Ug;n?3
+Z141 !s108 1643109552.833000
+Z142 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reset_en_ff.v|
+Z143 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/reset_en_ff.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshftl2
+Z144 I7Memli:7P48F?]GJk_`L>1
+Z145 VNOf4Xja33IRYnLRL9nW0g1
+R3
+Z146 w1642057847
+Z147 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/shftl2.v
+Z148 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/shftl2.v
+L0 1
+R7
+r1
+31
+R8
+!i10b 1
+Z149 !s100 SS1G[J0JKC@ik:o_V`2]@3
+!s85 0
+Z150 !s108 1643109552.967000
+Z151 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/shftl2.v|
+Z152 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/shftl2.v|
+!s101 -O0
+vsignExt
+!i10b 1
+!s100 VzQ>;?RMB;EHHF;:6a[oa0
+IIYJQoCR3ZX^JQd;6mai;]2
+V9a1L_>8O9=dK]RYAIH:I41
+R3
+w1642057721
+8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/signExt.v
+FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/signExt.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1643109553.187000
+!s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/signExt.v|
+!s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Pipeline_Processor/signExt.v|
+!s101 -O0
+R8
+nsign@ext

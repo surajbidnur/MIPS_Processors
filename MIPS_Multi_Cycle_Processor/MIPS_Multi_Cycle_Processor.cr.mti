@@ -1,0 +1,106 @@
+C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/reset_ff.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/reset_ff.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reset_ff
+
+Top level modules:
+	reset_ff
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/datapath.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mux41.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mux41.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/reset_en_ff.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/reset_en_ff.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reset_en_ff
+
+Top level modules:
+	reset_en_ff
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/signExt.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/signExt.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module signExt
+
+Top level modules:
+	signExt
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mips_multi_cycle.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mips_multi_cycle.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips_multi_cycle
+
+Top level modules:
+	mips_multi_cycle
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/shftl2.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/shftl2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shftl2
+
+Top level modules:
+	shftl2
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mainDecoder.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mainDecoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mainDecoder
+
+Top level modules:
+	mainDecoder
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mips_multi_cycle_tb.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mips_multi_cycle_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips_multi_cycle_tb
+
+Top level modules:
+	mips_multi_cycle_tb
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/ALUDecoder.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/ALUDecoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUDecoder
+
+Top level modules:
+	ALUDecoder
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/controlUnit.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/controlUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controlUnit
+
+Top level modules:
+	controlUnit
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/instrdataMem.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/instrdataMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instrdataMem
+
+Top level modules:
+	instrdataMem
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/alu.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mux21.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/mux21.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/reg_file.v {1 {vlog -work work C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Multi_Cycle_Processor/reg_file.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}}

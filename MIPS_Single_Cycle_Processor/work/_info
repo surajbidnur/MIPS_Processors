@@ -1,0 +1,297 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vadder
+Z1 !s100 KQDm]5SBX6B3^KcZVEJUY2
+Z2 IE[o9N2b81=maiAE>DYOdZ1
+Z3 VR4:XbIkd<X908neF9?e9K1
+Z4 dC:\Users\bidnu\Documents\Suraj\Verilog_Proj\MIPS_Processors\MIPS_Single_Cycle_Processor
+Z5 w1643107937
+Z6 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/adder.v
+Z7 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1643109138.518000
+Z12 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z13 !s100 4HA0]j8OdLIE??g@F<dRo3
+Z14 I;lnPcT4G;hOf6`5S2?5]k3
+Z15 VDa3f7Y[;21PY;BPaM17Bi2
+R4
+Z16 w1643107997
+Z17 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/alu.v
+Z18 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/alu.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/alu.v|
+R10
+Z20 !s108 1643109138.671000
+Z21 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUDecoder
+Z22 !s100 UG2T^_WZnH`8IFe3J56?F1
+Z23 IZAJbCe3RzeXNPNY;=j<g71
+Z24 V=>9Gj:fm=EIo6j_WIhBXV1
+R4
+Z25 w1643108053
+Z26 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/ALUDecoder.v
+Z27 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/ALUDecoder.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/ALUDecoder.v|
+R10
+Z29 n@a@l@u@decoder
+Z30 !s108 1643109138.828000
+Z31 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/ALUDecoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrolUnit
+Z32 !s100 JD^6L>I[m2jTOm`8_7eBg1
+Z33 IVn7G?:_?8zenG<9lS<h_11
+Z34 VTYUP;TE:a76KNl3D<bbPd3
+R4
+Z35 w1643108098
+Z36 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/controlUnit.v
+Z37 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/controlUnit.v
+L0 1
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/controlUnit.v|
+R10
+Z39 ncontrol@unit
+Z40 !s108 1643109138.981000
+Z41 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/controlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdataMem
+Z42 !s100 @KHbMz@JlR5cLdmTMETmF2
+Z43 I1E2O5ieN8jzhh5OgD3TPd2
+Z44 V^YDTC:CmZUlPl>I5D19I<3
+R4
+Z45 w1643108183
+Z46 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/dataMem.v
+Z47 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/dataMem.v
+L0 1
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/dataMem.v|
+R10
+Z49 ndata@mem
+Z50 !s108 1643109139.126000
+Z51 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/dataMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z52 !s100 7PIo[>RDPWY4Th0aDEnHi2
+Z53 I242lZG`JWnZRBkfIc=^`d1
+Z54 V^8Z0NVBG_;XGPozG7j<ci0
+R4
+Z55 w1643108242
+Z56 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/datapath.v
+Z57 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/datapath.v
+L0 1
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/datapath.v|
+R10
+Z59 !s108 1643109139.273000
+Z60 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinstrMem
+Z61 !s100 bfV]_2dlN5^e@GMo6PJ;_1
+Z62 IAgoL6Re6kGZBaP3_d7CZg3
+Z63 VmfUCP9D16daNJg5X9l2Mk2
+R4
+Z64 w1643108330
+Z65 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/instrMem.v
+Z66 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/instrMem.v
+L0 1
+R8
+r1
+31
+Z67 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/instrMem.v|
+R10
+Z68 ninstr@mem
+Z69 !s108 1643109139.438000
+Z70 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/instrMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmainDecoder
+Z71 !s100 VjJh954GgH<TjeJeQfGUZ3
+Z72 IEbVhWhhQGizSMW<le?Ech1
+Z73 VGOJ3g6o_cnGE[Y;:_D6T=2
+R4
+Z74 w1643108436
+Z75 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mainDecoder.v
+Z76 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mainDecoder.v
+L0 1
+R8
+r1
+31
+Z77 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mainDecoder.v|
+R10
+Z78 nmain@decoder
+Z79 !s108 1643109139.613000
+Z80 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mainDecoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_single_cycle
+Z81 !s100 QmQmZ2X_R[kkhRb8VK=ef0
+Z82 IAFSRKC@RfkdMo^RXai]1j1
+Z83 Vn1YZ8S9_]W?Ef_B]LNTQB2
+R4
+Z84 w1643108489
+Z85 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle.v
+Z86 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle.v
+L0 1
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle.v|
+R10
+Z88 !s108 1643109139.765000
+Z89 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_single_cycle_tb
+Z90 !s100 `C>fN<JUmWUVQYn3QXL6m1
+Z91 Ilhommnc_V_MOR7OaQmNRz0
+Z92 VL5Ne0XQ3FX`V]mQe[JXYF2
+R4
+Z93 w1643108457
+Z94 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle_tb.v
+Z95 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle_tb.v
+L0 1
+R8
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle_tb.v|
+R10
+Z97 !s108 1643109139.909000
+Z98 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mips_single_cycle_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21
+Z99 !s100 MNkHM5eb<MQn1]bdVJc`00
+Z100 I1=Q05TJJ4dYP4JmjO?cE51
+Z101 V_LG=1C1>N[Xec1QUjc]873
+R4
+Z102 w1643103355
+Z103 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mux21.v
+Z104 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mux21.v
+L0 1
+R8
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mux21.v|
+R10
+Z106 !s108 1643109140.128000
+Z107 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/mux21.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpcLogic
+Z108 !s100 mBVEKW[k?e6OCH_Vh92U52
+Z109 I@dCd4hbd;z:IH8c<m3Aj=0
+Z110 VVERa4[onA:SmC9JMOS85g1
+R4
+Z111 w1643108535
+Z112 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/pcLogic.v
+Z113 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/pcLogic.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/pcLogic.v|
+R10
+Z115 npc@logic
+Z116 !s108 1643109140.283000
+Z117 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/pcLogic.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z118 !s100 KOh9TXf4ghNU1jfCdOZJj2
+Z119 IbhUeLnOKjFh9KYhn37z6K3
+Z120 VoIG^P`j=0Xdf^FHBm:TYI3
+R4
+Z121 w1643103437
+Z122 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/reg_file.v
+Z123 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/reg_file.v
+L0 1
+R8
+r1
+31
+Z124 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/reg_file.v|
+R10
+Z125 !s108 1643109140.449000
+Z126 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/reg_file.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshftl2
+Z127 !s100 1n@fBz:2zG2DMHZfc@8Pc1
+Z128 IaOZdaii5^<2_>LbDND?nb0
+Z129 VNOf4Xja33IRYnLRL9nW0g1
+R4
+Z130 w1643103658
+Z131 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/shftl2.v
+Z132 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/shftl2.v
+L0 1
+R8
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/shftl2.v|
+R10
+!i10b 1
+!s85 0
+Z134 !s108 1643109140.618000
+Z135 !s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/shftl2.v|
+!s101 -O0
+vsignExt
+!i10b 1
+Z136 !s100 `A5]RU^SENj2cg=kf9`3B2
+Z137 IDWR[LgJ5fJLz;=J>R;4GX3
+Z138 V9a1L_>8O9=dK]RYAIH:I41
+R4
+Z139 w1643103673
+Z140 8C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/signExt.v
+Z141 FC:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/signExt.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1643109140.783000
+!s107 C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/signExt.v|
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/bidnu/Documents/Suraj/Verilog_Proj/MIPS_Processors/MIPS_Single_Cycle_Processor/signExt.v|
+!s101 -O0
+R10
+Z143 nsign@ext
