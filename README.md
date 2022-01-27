@@ -5,8 +5,7 @@ Verilog implementation of the MIPS single cycle, multi cycle and pipeline proces
 
 ## About
 
-This repository contains 3 different implementations of the MIPS processor arcitecture. Only a very small subset of the actual ISA is implemented in these designs.
-The different implementations are:
+This repository contains 3 different implementations of the MIPS processor arcitecture. Only a very small subset of the actual ISA is implemented in these designs. This is a 32 bit ISA implementation. The different implementations are:
 
 1. Single Cycle Processor
 2. Multi Cycle Processor
