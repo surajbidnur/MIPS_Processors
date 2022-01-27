@@ -108,3 +108,9 @@ This implementation of the pipelined processor includes some form of hazard dete
 * addi
 * lw
 * sw
+
+### References
+
+I used the "Digital design and Computer Architecture" textbook by "David M. Harris and Sarah L. Harris" as a reference for the design of these processors.
+
+The processor block diagram can also be found in this book.
