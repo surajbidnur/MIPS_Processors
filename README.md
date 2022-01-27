@@ -31,24 +31,20 @@ Disadvantage:
 * The maximum processor clock frequency now depends on the time taken by the slowest instruction to complete.
 * Next instruction starts only after the completion of the previous instruction. This degrades performance.
 
-#### Instructions supported
-
-* add
-* sub
-* or
-* and
-* slt
-* j
-* beq
-* addi
-* lw
-* sw
-
 ---
 
 ### Multi Cycle Processor
 
 To improve the performance over the single cycle processor, the multicycle processor divides the instruction over multiple cycles.
+
+Number of cycles instructions take to execute:
+
+* lw - 5 cycles
+* sw - 4 cycles
+* and, or, sub, add, slt - 4 cycles each
+* beq - 3 cycles
+* addi - 4 cycles
+* j - 3 cycles
 
 Advantage:
 
@@ -59,19 +55,6 @@ Disadvantage:
 
 * Number of program execution cycles increases compared to the single cycle processor.
 * Processor control beocmes more complicated compared to single cycle processor.
-
-#### Instructions supported
-
-* add
-* sub
-* or
-* and
-* slt
-* j
-* beq
-* addi
-* lw
-* sw
 
 ---
 
@@ -97,7 +80,9 @@ Disadvantage:
 
 This implementation of the pipelined processor includes some form of hazard detection and mitigation which includes data forwarding, stalling and pipeline flushing (control hazard).
 
-#### Instructions supported
+---
+
+### Instructions Supported
 
 * add
 * sub
@@ -108,9 +93,16 @@ This implementation of the pipelined processor includes some form of hazard dete
 * addi
 * lw
 * sw
+* j (not supported in the pipelined processor)
+
+For more details about the instructions please refer to the link in the references section below.
+
+---
 
 ### References
 
 I used the "Digital design and Computer Architecture" textbook by "David M. Harris and Sarah L. Harris" as a reference for the design of these processors.
 
 The processor block diagram can also be found in this book.
+
+For the MIPS ISA reference, use this [link](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_help.html)
