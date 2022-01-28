@@ -83,16 +83,16 @@ This implementation of the pipelined processor includes some form of hazard dete
 
 ### Instructions Supported
 
-* add
-* sub
-* or
-* and
-* slt
-* beq
-* addi
-* lw
-* sw
-* j (not supported in the pipelined processor)
+* add  (addition)
+* sub  (subtraction)
+* or   (bitwise OR)
+* and  (bitwise AND)
+* slt  (set less than)
+* beq  (branch if equal)
+* addi (add immediate)
+* lw   (load word)
+* sw   (store word)
+* j    (jump) (not supported in the pipelined processor)
 
 For more details about the instructions please refer to the link in the references section below.
 
